@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skuppers)
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skuppers&hide=issues&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skuppers&hide=issues&show_icons=true&count_private=true)
 
 ## 📚 Languages I know :
 
@@ -25,7 +25,7 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skuppers)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skuppers&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 ## 📂 My projects :
