@@ -16,9 +16,10 @@
 ## 📚 Languages I know :
 
 ![C](https://img.shields.io/badge/-C-2C41CB?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-2C42FB?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Shell script](https://img.shields.io/badge/-Shell%20script-E15622?style=for-the-badge&logo=shell&logoColor=black)
 ![ASM](https://img.shields.io/badge/-Asm-E7BA15?style=for-the-badge&logo=asm&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-1B7FDE?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-1B3FDE?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-1DDEC1?style=for-the-badge&logo=Python&logoColor=white)
 &nbsp; &nbsp;
 
