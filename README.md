@@ -23,7 +23,6 @@
 ![Python](https://img.shields.io/badge/-Python-1DDEC1?style=for-the-badge&logo=Python&logoColor=white)
 &nbsp; &nbsp;
 
-<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skuppers&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
